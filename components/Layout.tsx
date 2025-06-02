@@ -107,6 +107,9 @@ const Layout = ({ children, title, description, relativeCanonicalURL }: LayoutPr
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                 <link rel="icon" type="image/png" href="/static/logo.png" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" />
+                <link rel="preload" href="https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+                <link rel="preload" href="https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+                <link rel="preload" href="https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
                 <link
                     href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
                     rel="stylesheet"
